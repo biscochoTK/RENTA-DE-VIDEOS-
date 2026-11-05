@@ -83,4 +83,4 @@ Pendiente de incorporar captura.
 ## 8. Conclusión
 
 La implementación permite administrar la información de clientes, películas y alquileres mediante MongoDB, demostrando el uso de bases de datos NoSQL, inserción de documentos y consultas.
- 
+ thx.
